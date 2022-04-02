@@ -7,7 +7,7 @@
 </ul>
 
 <h1>Documentos 📂</h1>
-<p>Investigación sobre patrones de diseño [PDF] <b>Visitar en</b> https://drive.google.com/file/d/10CMMi6z7IHpbYLddHGY9u2A45O8WJHYa/view?usp=sharing</p>
+<p>Investigación sobre patrones de diseño [PDF] <b>Visitar en</b> https://drive.google.com/file/d/1dVnCHhV7ezp9TNxLFt5JkHYNkep2SEQj/view?usp=sharing</p>
 
 <h1>Vídeo explicativo - Patrón Observer 📹</h1>
 <p>Enlace a vídeo explicativo - <b>Visualizar:</b> https://www.youtube.com/watch?v=rxHjcI3uoUQ </p>
